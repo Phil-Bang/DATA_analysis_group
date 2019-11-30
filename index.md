@@ -1,8 +1,7 @@
 ## 환영합니다.
+본 페이지는 데이터분석 그룹 모임의 강의내용을
+보여주는 홈페이지입니다.
 
-You can use the [editor on GitHub](https://github.com/Phil-Bang/datagroup.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
