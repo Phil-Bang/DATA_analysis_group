@@ -31,7 +31,7 @@
   - 대화학습시간 10%(휴식포함)
 
 #### # 개인메일주소를 여기로 보내주세요.
-  ndbb2046@gmail.com
+ 클릭-> [메일주소 입력하는 곳](https://github.com/Phil-Bang/memberlist/blob/master/memberlist.md)
 
 
 
