@@ -33,7 +33,11 @@
 #### # 개인메일주소를 여기로 보내주세요.
  클릭-> [메일주소 입력하는 곳](https://github.com/Phil-Bang/memberlist/blob/master/memberlist.md)
 
-
+ 위 주소를 클릭해서 들어 가시면 오른쪽 상단에
+ 연필이 보일 겁니다. 그것을 누르시면 편집이
+ 가능해집니다.회원명단에 NO,소속,성명,메일주소를
+ 입력하시고 맨 아래로 내려가셔서 'commit changes'
+ 버튼을 클릭해 주시면 됩니다.
 
 
 ### Markdown
