@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 환영합니다.
 
 You can use the [editor on GitHub](https://github.com/Phil-Bang/datagroup.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
