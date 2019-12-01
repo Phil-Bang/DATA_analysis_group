@@ -36,20 +36,5 @@
   
   - 강사 : 빅데이터실 데이터 분석 전문가
 
------------------------------------------------
-#### # 아래 주소로 들어가서 메일주소를 입력해 주세요. 
-앞으로 개인메일주소로 코드소스파일과 데이터를 보내 드리려고 합니다.
-
- 클릭-> [https://github.com/Phil-Bang/memberlist](https://github.com/Phil-Bang/memberlist)
-
-#### 입력방법
-1. 위 주소로 접속 후, `README.md` 파일을 클릭하세요.
-2. `README.md` 파일의 편집버튼(연필모양)클릭하세요.
-3. 멤버명단에 자신의 번호,소속,이름,메일주소를 작성하여 한 줄을 추가해 주세요.
-4. 맨 아래에서 `[Create a new branch for this commit and start a pull request.]`를 선택해 주세요.
-4. `[Propose file change]` 버튼을 클릭하세요.
-5. `[Create pull request]` 버튼을 클릭하세요.
-6. `[Create pull request]` 버튼을 한 번 더 클릭하세요.
-
 
 To be continued..
