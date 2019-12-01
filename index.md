@@ -31,7 +31,7 @@
   - 대화학습시간 10%(휴식포함)
 
 #### # 개인메일주소를 여기에 입력해 주세요.
- 클릭-> [메일주소 입력하는 곳](https://github.com/Phil-Bang/memberlist/blob/master/memberlist.md)
+ 클릭-> [https://github.com/Phil-Bang/memberlist](https://github.com/Phil-Bang/memberlist)
 
  위 주소를 클릭해서 들어 가시면 오른쪽 상단에
  연필이 보일 겁니다. 그것을 누르시면 편집이
@@ -40,14 +40,4 @@
  녹색버튼을 클릭해 주시면 저장이 완료됩니다.
 
 
-#### 코드입력란 양식
-
-```markdown
-
-**Bold** and 
-_Italic_ and 
-`Code` text
-
-[Link](url) and
-![Image](src)
-```
+To be continued..
