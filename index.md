@@ -46,7 +46,7 @@
 1. 위 주소로 접속 후, `README.md` 파일을 클릭하세요.
 2. `README.md` 파일의 편집버튼(연필모양)클릭하세요.
 3. 멤버명단에 자신의 번호,소속,이름,메일주소를 작성하여 한 줄을 추가해 주세요.
-4. `맨 아래에서 [Create a new branch for this commit and start a pull request.]`를 선택해 주세요.
+4. 맨 아래에서 `[Create a new branch for this commit and start a pull request.]`를 선택해 주세요.
 4. `[Propose file change]` 버튼을 클릭하세요.
 5. `[Create pull request]` 버튼을 클릭하세요.
 6. `[Create pull request]` 버튼을 한 번 더 클릭하세요.
