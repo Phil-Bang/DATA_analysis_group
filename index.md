@@ -30,7 +30,7 @@
   - 실습학습시간 60%
   - 대화학습시간 10%(휴식포함)
 
-#### # 개인메일주소를 여기에 입력해 주세요.
+#### # 아래 주소로 들어가서 메일주소를 입력해 주세요. 개인메일주소로 코드소스와 데이터를 보내드리는데 필요합니다.
  클릭-> [https://github.com/Phil-Bang/memberlist](https://github.com/Phil-Bang/memberlist)
 
 #### 입력방법
