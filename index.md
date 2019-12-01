@@ -33,11 +33,13 @@
 #### # 개인메일주소를 여기에 입력해 주세요.
  클릭-> [https://github.com/Phil-Bang/memberlist](https://github.com/Phil-Bang/memberlist)
 
- 위 주소를 클릭해서 들어 가시면 오른쪽 상단에
- 연필이 보일 겁니다. 그것을 누르시면 편집이
- 가능해집니다. 회원명단에 NO,소속,성명,메일주소를
- 입력하시고 맨 아래로 내려가셔서 'commit changes'
- 녹색버튼을 클릭해 주시면 저장이 완료됩니다.
+#### 입력방법
+1. 위 주소로 접속 후, `README.md` 파일을 클릭하세요.
+2. `README.md` 파일의 편집버튼(연필모양)클릭하세요.
+3. 멤버명단에 자신의 번호,소속,이름,메일주소를 작성하여 한 줄을 추가해 주세요.
+4. `[Propose file change]` 버튼을 클릭하세요.
+5. `[Create pull request]` 버튼을 클릭하세요.
+6. `[Create pull request]` 버튼을 한 번 더 클릭하세요.
 
 
 To be continued..
