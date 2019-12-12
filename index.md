@@ -62,9 +62,7 @@ C. 외부초청강사가 데이터 분석 소개하는 시간
 ![교육스케줄](https://user-images.githubusercontent.com/50024239/70683168-8fdd7d00-1ce4-11ea-9bc0-d31338c55911.png)
 
 ### ◈ 데이터 분석그룹 구성원
-
-                                              `'19.12.12현재`
-
+                                              '19.12.12현재
 ![memberlist2](https://user-images.githubusercontent.com/50024239/70689461-b3f68980-1cf7-11ea-9cd0-425b90460989.png)
 
 
