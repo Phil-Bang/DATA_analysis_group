@@ -55,6 +55,7 @@ C. 외부초청강사가 데이터 분석 소개하는 시간
 ### ◈ 데이터 그룹 구성원
 
 ![memberlist](https://user-images.githubusercontent.com/50024239/70684306-1bf1a380-1ce9-11ea-90e6-88d41e6e2baf.png)
+
 19.12.12현재
 
 ### ◈ 모임 이력
