@@ -24,7 +24,7 @@
 #### **1. 구성조직(총33명)**
 
 ![organization](https://user-images.githubusercontent.com/50024239/70755974-a0dacc80-1d7e-11ea-9b3d-9168871748a9.png)
-#### **※ 소그룹 대표이름 : Slytherin(슬리데린)**
+#### **※ 소그룹 대표이름 : Slytherin(슬리데린)**<br><br>
 
 #### **2. 모임방법**
 
