@@ -70,8 +70,6 @@
 
 ### **◈ 모임 구성원 상세**
  
-###### ('19.12.13현재)
-
-![memberlist4](https://user-images.githubusercontent.com/50024239/70766146-33d82e80-1da0-11ea-939f-9cc78d6ed6c6.png)
+![memberlist5](https://user-images.githubusercontent.com/50024239/70772033-95a39300-1db6-11ea-9f89-a4b4c42cd236.png)
 
 ---------
