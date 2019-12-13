@@ -24,7 +24,7 @@
 ### **◈ 모임 운영 방법 및 내용**
 #### **1. 구성조직(총33명)**
 
-<img src="https://user-images.githubusercontent.com/50024239/70755974-a0dacc80-1d7e-11ea-9b3d-9168871748a9.png" width="80%"><br>
+<img src="https://user-images.githubusercontent.com/50024239/70755974-a0dacc80-1d7e-11ea-9b3d-9168871748a9.png" width="60%"><br>
 
 <!--![organization](https://user-images.githubusercontent.com/50024239/70755974-a0dacc80-1d7e-11ea-9b3d-9168871748a9.png)-->
 
