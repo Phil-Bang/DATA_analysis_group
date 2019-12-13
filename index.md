@@ -24,10 +24,10 @@
 ### **◈ 모임 운영 방법 및 내용**
 #### **1. 구성조직(총33명)**
 
-![organization](https://user-images.githubusercontent.com/50024239/70755974-a0dacc80-1d7e-11ea-9b3d-9168871748a9.png)<br><br>
+![organization](https://user-images.githubusercontent.com/50024239/70755974-a0dacc80-1d7e-11ea-9b3d-9168871748a9.png)<br>
 
 #### **※ 그룹이름 : Slytherin(슬리데린)**
-<img src="https://user-images.githubusercontent.com/50024239/70775274-86c0de80-1dbe-11ea-88fd-a9ca68be8c72.jpg" height="10%" width="10%"><br><br>
+<img src="https://user-images.githubusercontent.com/50024239/70775274-86c0de80-1dbe-11ea-88fd-a9ca68be8c72.jpg" height="20%" width="20%"><br><br>
 
 #### **2. 모임방법**
 
