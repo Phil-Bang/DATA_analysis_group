@@ -29,7 +29,10 @@
 <!--![organization](https://user-images.githubusercontent.com/50024239/70755974-a0dacc80-1d7e-11ea-9b3d-9168871748a9.png)-->
 
 #### **※ 그룹이름 : Slytherin(슬리데린)**
-<img src="https://user-images.githubusercontent.com/50024239/70775274-86c0de80-1dbe-11ea-88fd-a9ca68be8c72.jpg" height="20%" width="20%"><br><br>
+<img src="https://user-images.githubusercontent.com/50024239/70775274-86c0de80-1dbe-11ea-88fd-a9ca68be8c72.jpg" height="20%" width="20%">슬리데린은 해리포터 시리즈에 등장하는 호그와트 마법학교의 4대 기숙사 중에 하나로 상징물이 뱀입니다. 파이썬(python)이
+고대 그리스 신화에 나오는 피톤(영어발음으로 하면 파이썬)이라는 뱀 이름이기 때문에 여기에서 연상하여 슬리데린이라는 이름을 짓게 되었습니다.
+뱀은 날렵하고 강하며 목적 달성을 위해 지혜롭고 야심차고 재간이 넘치므로, 슬리데린 그룹은 앞으로 함께 나눔에 있어서 매우 빠르고 지혜가
+넘치는 그룹이 되길 바란다는 의미가 들어 있습니다.<br><br>
 
 #### **2. 모임방법**
 
