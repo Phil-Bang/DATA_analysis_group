@@ -71,7 +71,7 @@
 ### **◈ 모임 구성원 상세**
  
 ###### ('19.12.12현재)
- 
-![memberlist2](https://user-images.githubusercontent.com/50024239/70689461-b3f68980-1cf7-11ea-9cd0-425b90460989.png)
+
+![memberlist3](https://user-images.githubusercontent.com/50024239/70759970-7e02e500-1d8b-11ea-87e8-cc71fc7ec214.png)
 
 ---------
