@@ -72,7 +72,7 @@
 
 #### **6. 교육내용 및 일정**
 
-![교육스케줄](![eddate](https://user-images.githubusercontent.com/50024239/71602929-d4e72780-2b9d-11ea-8e11-5e1ad249208f.png)
+![eddate](https://user-images.githubusercontent.com/50024239/71602929-d4e72780-2b9d-11ea-8e11-5e1ad249208f.png)
 ###### (위 내용은 필요에 따라 중간에 변경될 수 있습니다.)<br><br>
 
 ---------
