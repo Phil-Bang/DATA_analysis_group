@@ -26,10 +26,11 @@
 
 --------
 
+
 ### **◈ 모임 운영 방법 및 내용**<br><br>
 
 #### **1. 구성조직(총33명)**
-<img src="https://user-images.githubusercontent.com/50024239/71606560-35359380-2bb5-11ea-8511-ea5660437fa2.png" width="80%"><br>
+<img src="https://user-images.githubusercontent.com/50024239/71606631-d45a8b00-2bb5-11ea-8275-4be10dad9ac7.png" width="80%"><br>
 #### **Slytherin(슬리데린,그룹명)**
 <img src="https://user-images.githubusercontent.com/50024239/70775274-86c0de80-1dbe-11ea-88fd-a9ca68be8c72.jpg" height="20%" width="20%">
 **Slytherin** : 슬리데린은 해리포터 시리즈에 등장하는
