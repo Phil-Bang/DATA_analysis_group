@@ -91,7 +91,7 @@
 --------
 
 ### **◈ 모임 구성원 상세**
- 
-![memberlist5](https://user-images.githubusercontent.com/50024239/70772033-95a39300-1db6-11ea-9f89-a4b4c42cd236.png)
+
+![memberlist6](https://user-images.githubusercontent.com/50024239/71787049-f476c800-3055-11ea-8d8d-e7b48a062223.png)
 
 ---------
