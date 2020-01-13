@@ -73,7 +73,7 @@
 
 #### **6. 교육내용 및 일정**
 
-![memberlist7](https://user-images.githubusercontent.com/50024239/72229636-75ecce00-35f3-11ea-8c58-78ed4c1fbcbe.png)
+![schedule](https://user-images.githubusercontent.com/50024239/72203104-cdcbed80-34aa-11ea-8c4d-62e2f5165c72.png)
 
 ###### (위 내용은 필요에 따라 중간에 변경될 수 있습니다.)<br><br>
 
@@ -93,6 +93,6 @@
 
 ### **◈ 모임 구성원 상세**
 
-![memberlist6](https://user-images.githubusercontent.com/50024239/71787049-f476c800-3055-11ea-8d8d-e7b48a062223.png)
+![memberlist7](https://user-images.githubusercontent.com/50024239/72229636-75ecce00-35f3-11ea-8c58-78ed4c1fbcbe.png)
 
 ---------
